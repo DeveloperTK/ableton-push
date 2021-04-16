@@ -1,5 +1,4 @@
 import math
-import queue
 import time
 
 from mido import Message
@@ -18,7 +17,7 @@ class GameThread(threading.Thread):
         self.outport = outport
         self.parts = []
         self.parts.append((0, 0))
-        self.max_len = 12
+        self.max_len = 6
         self.key = 0
 
     def run(self):

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/screen-libusb/rust-screen.iml" filepath="$PROJECT_DIR$/screen-libusb/rust-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screen/screen.iml" filepath="$PROJECT_DIR$/screen/screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screen-libusb/screen-libusb.iml" filepath="$PROJECT_DIR$/screen-libusb/screen-libusb.iml" />
       <module fileurl="file://$PROJECT_DIR$/snake/snake.iml" filepath="$PROJECT_DIR$/snake/snake.iml" />
     </modules>
   </component>
